@@ -1,0 +1,1 @@
+<?php /**PATH /Users/zandapruse/Laravel/auglu_serviss/resources/views/atsauksmes.blade.php ENDPATH**/ ?>
